@@ -19,7 +19,7 @@ This repository is based on the code from [Image-to-Image Regression with Distri
 For dependencies and installation instructions please refer to [Angelopoulos et al.](https://github.com/aangelopoulos/im2im-uq). 
 In order to perform subgroup calibration you need to provide independent calibration sets for each subgroup and adjust the loss computation accordingly. 
 
-The dataset used in this work collected at the University Hospital Tuebingen and cannot be made publicly available.
+The dataset used in this work was collected at the University Hospital Tübingen and cannot be made publicly available.
 
 ## References
 ```
